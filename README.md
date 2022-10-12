@@ -1,3 +1,4 @@
+Use Python to calculate students’ grades and convert it to a format that can be uploaded to the school’s administrative system. The final data table consists of the columns labeled as ID, Name, Homework scores, Quizzes Scores, Exams, Final Score, and Final Letter Grade. Each row contains data for individual students. A summary statistics plot is created to visualize the distribution.
 
 <br/> The project involves:
 - Data exploration
