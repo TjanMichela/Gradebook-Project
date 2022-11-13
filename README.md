@@ -7,7 +7,9 @@ Use Python to calculate students’ grades and convert it to a format that can b
 - Plotting the grade distribution
 
 <br/> Datasets — CSV files:
-- Information of the class rosterHomework and exam scoresQuiz grades
+- Information of the class roster
+- Homework and exam scores
+- Quiz grades
 
 <br/>Complications:
 - Students’ names are represented differently in each file
